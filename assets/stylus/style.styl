@@ -4,19 +4,22 @@ $light = #A0AABA;
 $sec = #93B3C9;
 $prime = #FF264A;
 
+*
+	padding: 0;
+	margin: 0;
+
 html
 	margin: 0 auto;
-	background-color: #0D1B2A;
-	color: #FC1A40;
+	background-color: $dark;
+	color: $light;
 	font-family: 'Open Sans', sans-serif;
 	text-align: center;
-h1
-	font-weight:800;
-	font-size: 50px;
-h2
-	color: #E0CA3C;
-p
-	color: #F3EFE0;
+h2.intro
+	font-size: 15px;
+p.intro
+	padding-top: 10%;
+svg
+	padding-top:10%;
 svg text
 	font-size:50px;
 	display: inline;
@@ -26,7 +29,7 @@ svg text
 	stroke-width:8;
 	stroke-miterlimit:10;
 .first-name
-	fill:$light;
+	fill:$sec;
 	font-family:'OpenSans-Bold';
 .last-name
 	fill:$prime;
