@@ -23,7 +23,7 @@ module.exports = function(grunt){
 					relativeDest: '../../assets/styles'
 				},
 				files: {
-					'../assets/styles/style.css': '../assets/stylus/*.styl'
+					'../assets/styles/style.css': ['../assets/stylus/style.styl','../assets/stylus/*.styl']
 				}
 			}
 		},
