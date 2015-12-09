@@ -1,0 +1,25 @@
+{
+  "name": "fernandoguisso.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandoGuisso/fernandoguisso.github.io.git"
+  },
+  "author": "Fernando Guisso",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/fernandoGuisso/fernandoguisso.github.io/issues"
+  },
+  "homepage": "https://github.com/fernandoGuisso/fernandoguisso.github.io#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jade": "^0.15.0",
+    "grunt-contrib-stylus": "^0.22.0",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
