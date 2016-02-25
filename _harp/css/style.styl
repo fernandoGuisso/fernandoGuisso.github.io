@@ -1,13 +1,8 @@
-$dark = #0D1B2A
-$dark_light = #1B263B
-$light = #A0AABA
-$sec = #93B3C9
-$prime = #FF264A
+@import "_variable"
 
 *
 	padding 0
 	margin 0 auto
-
 html body
 	margin 0 auto
 	background-color $dark
@@ -47,3 +42,28 @@ svg.logo text
 	top 0
 	left 0
 	z-index -1
+//Sprites
+.icon
+	fill $light
+	display inline-block
+	background-repeat no-repeat
+	transition-duration 1s
+	transition-time-funciton linear;
+.icon:hover
+	fill $prime
+.icon-github
+	width 48px
+	height 48px
+	background-position 0 0
+.icon-twitter
+	width 48px
+	height 48px
+	background-position -64px 0px
+.icon-facebook
+	width 48px
+	height 48px
+	background-position -128px 0px
+.icon-at
+	width 48px
+	height 48px
+	background-position -192px 0px
