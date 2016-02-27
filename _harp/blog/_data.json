@@ -1,0 +1,12 @@
+{
+	"hello-world": {
+		"title": "Hello World!",
+		"intro": "Just a hello world for my harp config.",
+		"date": "2016-02-27",
+		"tags": [
+			"hello",
+			"world",
+			"first"
+		]
+	}
+}

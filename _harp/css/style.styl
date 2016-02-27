@@ -8,8 +8,16 @@ html body
 	background-color $dark
 	color $light
 	font-family 'Open Sans', sans-serif
-	text-align center
 	overflow hidden
+main, body.main
+	text-align center
+header
+	height 150px
+article
+	padding 10 20
+	background-color $light
+	p
+		color $dark_light
 h2.intro
 	font-size 15px
 p.intro
@@ -18,9 +26,16 @@ p.intro
 svg.logo
 	padding-top 5%
 	width 500px
-svg.logo text
-	font-size 50px
-	display inline
+	text
+		display inline
+		font-size 50px
+svg.logo-min
+	padding-top 1%
+	padding-left 1%
+	width 500px
+	text-align left
+	text
+		font-size 20px
 .env
 	fill none
 	stroke $dark_light
@@ -42,28 +57,19 @@ svg.logo text
 	top 0
 	left 0
 	z-index -1
-//Sprites
+#zodiac-blog
+	width 100%
+	height 250px
+	position fixed
+	top 0
+	left 0
+	z-index -1
+// SVG Icons 
 .icon
-	fill $light
+	fill $dark_light
 	display inline-block
 	background-repeat no-repeat
 	transition-duration 1s
 	transition-time-funciton linear;
-.icon:hover
-	fill $prime
-.icon-github
-	width 48px
-	height 48px
-	background-position 0 0
-.icon-twitter
-	width 48px
-	height 48px
-	background-position -64px 0px
-.icon-facebook
-	width 48px
-	height 48px
-	background-position -128px 0px
-.icon-at
-	width 48px
-	height 48px
-	background-position -192px 0px
+	:hover
+		fill $prime
