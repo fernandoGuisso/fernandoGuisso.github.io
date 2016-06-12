@@ -7,7 +7,7 @@ Desenvolvedor full-stack, evangelista javascript, focado em eduTech e finTech.
 
 ### Porque javascript?
 
-Javscript foi criado para Web, mas sabemos que hoje ele vai além do Front-end. Se estendendo até o Back-end com o poderoso [Node.js](https://nodejs.org/en/), mas não é só isso, podemos criar aplicações mobile com alguns [frameworks](http://ionicframework.com/) usando js. Para piorar meus slides para palestras e cursos são feitos com [Reveal.js](http://lab.hakim.se/reveal-js/). Finalizando, consigo acender alguns led's, [comandar drones](http://www.dailymail.co.uk/sciencetech/article-2400958/Hacker-pilots-drone-Google-Glass-using-just-head-movements.html) e programar meus robos com javascript.
+Javscript foi criado para Web, mas sabemos que hoje ele vai além do Front-end. Se estendendo até o Back-end com o poderoso [Node.js](https://nodejs.org/en/), mas não é só isso, podemos criar aplicações mobile com alguns [frameworks](http://ionicframework.com/) usando js. Para melhorar meus slides tanto em palestras quanto cursos são feitos com [Reveal.js](http://lab.hakim.se/reveal-js/). Finalizando, consigo acender alguns led's, [comandar drones](http://www.dailymail.co.uk/sciencetech/article-2400958/Hacker-pilots-drone-Google-Glass-using-just-head-movements.html) e programar meus robos com javascript.
 
 ---
 
