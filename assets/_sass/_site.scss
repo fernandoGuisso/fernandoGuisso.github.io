@@ -452,7 +452,7 @@ canvas {
     left: 20px;
     position: absolute;
     img {
-      width: 50px;
+      width: 150px;
       height: auto;
     }
     &:after {
@@ -495,7 +495,7 @@ canvas {
       color: darken($white, 40);
     }
     .date {
-      color: #399f62;
+      color: darken($green, 40);
       float: right;
       display: inline-block;
       font-size: 15px;
@@ -564,7 +564,7 @@ canvas {
     display: block;
   }
   a:not(.btn):not(.pagination_pager) {
-    color: #399f62;
+    color: darken($green, 40);
     border-bottom: 1px dotted $green;
   }
   ul,
