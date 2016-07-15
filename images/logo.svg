@@ -1,9 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg class="lg" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-4 -4 88 88" enable-background="new -4 0 88 88">
-	<style>
-		.border{fill:none;stroke:#C33C54;stroke-width:8;stroke-miterlimit:10}.first-name{fill:#00A5CF;font-weight:700}.last-name{fill:#8342B7;font-weight:800}
-	</style>
-	<polygon class="border" points="80,40 80,80 0,80 0,0 40,0"/>
-	<text transform="matrix(1 0 0 1 15 60)" class="first-name">f</text>
-	<text transform="matrix(1 0 0 1 25 60)" class="last-name">G</text>
-</svg>
+<svg class="svg-logo" viewBox="-5 -5 245 50">
+  <style>
+    text{
+      font-size: 1em;
+      font-family: "Open Sans";
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 3.5px;
+    }
+    .first{
+      fill: #FAFCFF;
+    }
+    .last{
+      fill: #197BE9;
+    }
+    .svg-square{
+      fill: none;
+      stroke: #FAFCFF;
+      stroke-width: .5em;
+    }
+    .svg-polygon{
+      fill: #FAFCFF;
+    }
+  </style>
+  <polygon class="svg-square" points="0,0 0,40 140,40 140,0" fill="none"/>
+  <polygon class="svg-polygon" points="140,-4.02 140,44.02 240,44.02 240,22.01 215,-4.02"/>
+  <text class="first" transform="matrix(1 0 0 1 15 26)">Fernando</text>
+  <text class="last" transform="matrix(1 0 0 1 144 26)">Guisso</text>
+ </svg>
