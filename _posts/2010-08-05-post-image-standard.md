@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Post: Image (Standard)"
+published: false
 categories:
   - Post Formats
 tags:

@@ -2,6 +2,7 @@
 layout: post
 title: "Layout: Header Image (External URL)"
 image: https://farm5.staticflickr.com/4140/4939863887_84705982fd_b.jpg
+published: false
 categories:
   - Layout
   - Uncategorized

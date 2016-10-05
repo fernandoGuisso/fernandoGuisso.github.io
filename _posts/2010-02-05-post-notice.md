@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Post: Notice"
+published: false
 categories:
   - Post Formats
 tags:

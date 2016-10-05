@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Markup: Image Alignment"
+published: false
 categories:
   - Markup
 tags:

@@ -2,6 +2,7 @@
 layout: post
 title: "Layout: Header Image (Horizontal)"
 image: images/unsplash-image-1.jpg
+published: false
 categories:
   - Layout
   - Uncategorized

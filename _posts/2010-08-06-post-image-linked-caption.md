@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Post: Image (Linked with Caption)"
+published: false
 categories:
   - Post Formats
 tags:

@@ -2,6 +2,7 @@
 layout: post
 title: "Layout: Header Image and Text Readability"
 image: images/unsplash-image-4.jpg
+published: false
 tags: 
   - sample post
   - readability
